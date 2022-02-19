@@ -9,7 +9,7 @@ int main()
     printf("\nEnter Value of y ");
     scanf("%d", &y);
   
-    char = x;
+   int char = x;
     x = y;
     y = char;
   
